@@ -10,7 +10,6 @@ TTCWeb is the static marketing site for **The Tilted Cap** (thetiltedcap.com), h
 
 - `index.html` — the entire site: markup, inline CSS, and content. There is no JavaScript.
 - `assets/` — images (logos, app store badges, screenshots) and video placeholders.
-- `CNAME` — GitHub Pages custom domain configuration (`thetiltedcap.com`).
 
 ## Development
 
